@@ -1,0 +1,8 @@
+PyrN cupin ZN-proximal active site (5.0 Å cutoff)
+Reference: model_0 (confidence 0.974)
+
+  idx  10  H  res 11
+  idx  12  H  res 13
+  idx  16  E  res 17
+  idx  18  W  res 19
+  idx  50  H  res 51
