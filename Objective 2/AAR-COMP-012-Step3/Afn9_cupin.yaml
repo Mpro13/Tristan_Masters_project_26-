@@ -1,0 +1,7 @@
+sequences:
+  - protein:
+      id: A
+      sequence: PFDAMWCRIPAHSESAPDEHPEVELAVVVGGTAVFTVDGTEVTAGPGTAVLLSPGERHVIKAAGEPVRILSVYW
+  - ligand:
+      id: ZN1
+      ccd: ZN
